@@ -1,7 +1,6 @@
-package v14.feature.records.verbose_succinct;
+package feature.records.verbose_succinct;
 
 import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.RecordComponent;
 import java.util.Arrays;
 
 public class LocationRunner {

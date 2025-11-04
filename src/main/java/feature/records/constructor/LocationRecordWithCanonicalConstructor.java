@@ -1,4 +1,4 @@
-package v14.feature.records.constructor;
+package feature.records.constructor;
 
 public record LocationRecordWithCanonicalConstructor(double latitude, double longitude) {
     /*

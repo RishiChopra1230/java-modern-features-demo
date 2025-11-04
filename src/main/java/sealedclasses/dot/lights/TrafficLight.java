@@ -1,4 +1,4 @@
-package feature.sealedclasses.dot.lights;
+package sealedclasses.dot.lights;
 
 public sealed abstract class TrafficLight permits VerticalTrafficLight,HorizontalTrafficLight,RailroadLight{
     public void turnRed() {}

@@ -1,10 +1,7 @@
-package feature.sealedclasses.dot.use;
+package sealedclasses.dot.use;
 
-import feature.sealedclasses.dot.lights.TrafficLight;
-import feature.sealedclasses.dot.lights.TrafficLightFactory;
-
-import java.util.Collections;
-import java.util.Optional;
+import sealedclasses.dot.lights.TrafficLight;
+import sealedclasses.dot.lights.TrafficLightFactory;
 
 public class Examine {
     public static void main(String[] args) {

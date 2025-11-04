@@ -1,4 +1,4 @@
-package feature.sealedclasses.dot.lights;
+package sealedclasses.dot.lights;
 
 final class RailroadLight extends TrafficLight{
 }

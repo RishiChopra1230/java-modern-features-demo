@@ -1,4 +1,4 @@
-package feature.records.localrecords_as_tuples;
+package records.localrecords_as_tuples;
 
 import java.util.List;
 

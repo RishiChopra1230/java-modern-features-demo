@@ -1,4 +1,4 @@
-package feature.records.verbose_succinct;
+package records.verbose_succinct;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.Arrays;

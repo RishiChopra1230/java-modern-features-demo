@@ -1,4 +1,4 @@
-package feature.records.interfaceimpl;
+package records.interfaceimpl;
 
 public interface Json {
     public String generateJson();

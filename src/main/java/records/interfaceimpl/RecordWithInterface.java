@@ -1,4 +1,4 @@
-package feature.records.interfaceimpl;
+package records.interfaceimpl;
 
 public record RecordWithInterface(String firstName, String lastName) implements Json{
     @Override

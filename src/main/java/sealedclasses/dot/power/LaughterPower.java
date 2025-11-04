@@ -1,4 +1,4 @@
-package feature.sealedclasses.dot.power;
+package sealedclasses.dot.power;
 
 class LaughterPower implements ExperimentalPower{
     @Override

@@ -1,4 +1,4 @@
-package feature.records.verbose_succinct;
+package records.verbose_succinct;
 
 /**
  * Represent location on the planet
